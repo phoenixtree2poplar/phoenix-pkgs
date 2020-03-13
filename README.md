@@ -42,7 +42,7 @@
 1. [maven](https://phoenixtree2poplar.github.io/2018/08/31/maven%E9%85%8D%E7%BD%AE/)
 1. [idea](https://phoenixtree2poplar.github.io/2019/08/25/idea/)
 1. notepad++主题obsidian
-# Win系统装机步骤：
+# Win装机：
 1. [Windows官网](https://www.microsoft.com/zh-cn/software-download/windows10)最新镜像制作-->安装 [国内镜像](https://msdn.itellyou.cn)
 2. 系统文件夹地址更改
 3. 关闭Windows保护
@@ -90,4 +90,3 @@
 10. [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
 ### github  ssh配置
 ### 装一个win10虚拟机(安装未知软件)
-##### [个人喜好配置](https://github.com/phoenixtree2poplar/release-config-me) 
