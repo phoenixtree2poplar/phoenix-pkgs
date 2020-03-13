@@ -28,7 +28,7 @@
 1. [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 1. [typora](https://www.typora.io/)
 # plugins插件
-1. idea插件
+1. [idea插件官网](https://plugins.jetbrains.com)
 1. [EasyCode](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
 1. [free mybatis plugin](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
 1. [maven helper](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
