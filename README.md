@@ -27,7 +27,6 @@
 1. [postman](https://www.getpostman.com/)
 1. [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 1. [typora](https://www.typora.io/)
-# [个人配置](https://github.com/phoenixtree2poplar/release-config-me)
 # plugins插件
 1. idea插件
 1. [EasyCode](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
@@ -43,7 +42,7 @@
 1. [maven](https://phoenixtree2poplar.github.io/2018/08/31/maven%E9%85%8D%E7%BD%AE/)
 1. [idea](https://phoenixtree2poplar.github.io/2019/08/25/idea/)
 1. notepad++主题obsidian
-# Windows安装步骤：
+# Win系统装机步骤：
 1. [Windows官网](https://www.microsoft.com/zh-cn/software-download/windows10)最新镜像制作-->安装 [国内镜像](https://msdn.itellyou.cn)
 2. 系统文件夹地址更改
 3. 关闭Windows保护
