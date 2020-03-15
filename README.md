@@ -22,19 +22,20 @@
 1. [nginx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](http://nginx.org/en/download.html)】
 1. [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
 1. [mysql7](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/mysql7)【[官网](https://dev.mysql.com/downloads/mysql)】
-# 仅官网
+<!-- -->
+### 仅官网
 1. [notepad++](https://notepad-plus.en.softonic.com/)
 1. [postman](https://www.getpostman.com/)
 1. [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 1. [typora](https://www.typora.io/)
-# plugins插件
+### plugins插件
 1. [idea插件官网](https://plugins.jetbrains.com)
-    1. [EasyCode](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
-    1. [free mybatis plugin](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
-    1. [maven helper](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
+    - [EasyCode](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
+    - [free mybatis plugin](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
+    - [maven helper](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
 ### 未验证
 1. 百度云盘破解版【[命令行版](https://github.com/iikira/BaiduPCS-Go/releases)】【[桌面版](https://github.com/liuzhuoling2011/baidupcs-web/releases)】【[说明](https://mp.weixin.qq.com/s/gs8B2bLPOZGGW8RuoNtGFQ)】
-# 个人配置
+### 个人配置
 1. [ico](https://github.com/phoenixtree2poplar/release-config-me/releases/tag/ico)
 1. [npm](https://phoenixtree2poplar.github.io/2020/01/18/npm/)
 1. [git-config](https://phoenixtree2poplar.github.io/2019/07/12/git-init/)
@@ -50,7 +51,7 @@
 5. [永久关闭Windows保护](https://github.com/phoenixtree2poplar/release-tools-v2/releases/tag/%E5%85%B3%E9%97%AD%E4%BF%9D%E6%8A%A4)【[官网](http://www.carrotchou.blog/27785.html)】
 6. Windows激活-->重启
 7. 开启备份
-# software:
+### software:
 1. [搜狗输入法](https://pinyin.sogou.com/zhihui)(智慧版)
 2. [网易云音乐](https://music.163.com)(文件位置修改)
 3. [微信](https://weixin.qq.com)(文件位置修改)
@@ -77,7 +78,7 @@
 25. [印象笔记](https://www.yinxiang.com/)
 26. [有道笔记](http://note.youdao.com/download.html)
 27. [xmind](https://www.xmind.cn/)
-# dev:
+### dev:
 1. path:jdk,[git](https://git-scm.com/)+[TortoiseGit](https://tortoisegit.org/download/)乌龟,[maven](https://archive.apache.org/dist/maven/maven-3/)(仓库位置修改),[node](http://nodejs.cn/) +npm(仓库位置修改+换阿里镜像)+hexo
 2. IDE:idea(文件位置修改),webstorm
 3. 数据库[mysql7](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/mysql7)【[官网](https://dev.mysql.com/downloads/mysql)】
@@ -88,5 +89,5 @@
 8. [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 9. [nginx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](http://nginx.org/en/download.html)】
 10. [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
-### github  ssh配置
-### 装一个win10虚拟机(安装未知软件)
+#### github  ssh配置
+#### 装一个win10虚拟机(安装未知软件)
