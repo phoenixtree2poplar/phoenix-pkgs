@@ -36,7 +36,7 @@
 ### 未验证
 1. 百度云盘破解版【[命令行版](https://github.com/iikira/BaiduPCS-Go/releases)】【[桌面版](https://github.com/liuzhuoling2011/baidupcs-web/releases)】【[说明](https://mp.weixin.qq.com/s/gs8B2bLPOZGGW8RuoNtGFQ)】
 ### 个人配置
-1. [ico](https://github.com/phoenixtree2poplar/release-config-me/releases/tag/ico)
+1. [ico](https://github.com/phoenixtree2poplar/phoenix-pkgs/releases/tag/v0.0.0)
 1. [npm](https://phoenixtree2poplar.github.io/2020/01/18/npm/)
 1. [git-config](https://phoenixtree2poplar.github.io/2019/07/12/git-init/)
 1. [mysql](https://phoenixtree2poplar.github.io/2019/08/25/mysql/)
