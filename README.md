@@ -89,6 +89,6 @@
 7. [postman](https://www.getpostman.com/)
 8. [docker](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
 9. [nginx](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/1.16.1)【[官网](http://nginx.org/en/download.html)】
-10. [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
+1. [redis](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/win-redis)【[官网](https://github.com/microsoftarchive/redis/releases)】
 #### github  ssh配置
 #### 装一个win10虚拟机(安装未知软件)
