@@ -30,9 +30,9 @@
 > 4. [typora](https://www.typora.io/)
 ### plugins插件
 > 1. [idea插件官网](https://plugins.jetbrains.com)
-    - [EasyCode](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
-    - [free mybatis plugin](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
-    - [maven helper](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
+> > - [EasyCode](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
+> > - [free mybatis plugin](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
+> > - [maven helper](https://github.com/phoenixtree2poplar/release-pkg-v1/releases/tag/EasyCode-1.2.2)
 ### 未验证
 > 1. 百度云盘破解版【[命令行版](https://github.com/iikira/BaiduPCS-Go/releases)】【[桌面版](https://github.com/liuzhuoling2011/baidupcs-web/releases)】【[说明](https://mp.weixin.qq.com/s/gs8B2bLPOZGGW8RuoNtGFQ)】
 ### 个人配置
